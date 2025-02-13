@@ -1,0 +1,20 @@
+[
+    {
+      "title": "SkillHunt Job Portal",
+      "imageSrc": "projects/kkk.png",
+      "description": "This is a Job Portal website along with Resume Builder",
+      "skills": ["React", "DRF", "Tailwind"],
+      "demo": "https://skillhuntbackbynahima.online/",
+      "source": 
+        "https://github.com/NahimaMachingal/skillhunt-frontend.git"      
+    },
+    {
+      "title": "Ecommerce",
+      "imageSrc": "projects/hmlogo.png",
+      "description": "A Complete Ecommerce Website",
+      "skills": ["Django","HTML","CSS"],
+      "demo": "https://django-ecommerce-website.shop",
+      "source": "https://github.com/NahimaMachingal/Django-Ecommerce.git"
+    }
+  ]
+  

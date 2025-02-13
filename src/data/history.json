@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Mes College Of Engineering",
+      "organisation": "Kuttippuram, Kerala",
+      "startDate": "june, 2012",
+      "endDate": "april 2016",
+      "experiences": ["Computer Science Engineering"],
+      "imageSrc": "history/mes.png"
+    },
+    {
+      "role": "Brototype",
+      "organisation": "Kerala",
+      "startDate": "2024",
+      "endDate": "2025",
+      "experiences": ["Learned Python Django Full Stack"],
+      "imageSrc": "history/bro.png"
+    }
+    
+  ]
+  
